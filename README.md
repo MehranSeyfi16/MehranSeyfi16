@@ -3,7 +3,6 @@
 * [About Me](#about-me)
 * [Tasks](#tasks)
 * [10 Ways to contact me](#10-ways-to-contact-me)
-* [Donate](#donate)
 
 ## About Me
 
