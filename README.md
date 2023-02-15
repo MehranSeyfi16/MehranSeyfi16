@@ -10,7 +10,7 @@ Hello World, I am Mehran Seyfi
 
 A pseudo-introvert, a junior data scientist, and a AI enthusiast
 
-[Resume](https://mehranseyfi16.github.io/resume.pdf)
+[You can access my resume:](https://mehranseyfi16.github.io/resume.pdf)
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=MehranSeyfi16&show_icons=true&include_all_commits=true&theme=radical" alt="Mehran's github stats" />
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MehranSeyfi16&layout=compact&theme=radical" />
