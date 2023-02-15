@@ -19,10 +19,10 @@ A pseudo-introvert, a junior data scientist, and a AI enthusiast
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MehranSeyfi16&theme=github_dark)
 
-![](https://cr-skills-chart-widget.azurewebsites.net/api/api?username=MehranSeyfi16)
+<!-- ![](https://cr-skills-chart-widget.azurewebsites.net/api/api?username=MehranSeyfi16) -->
 
 <table>
-<caption>Abhishek Chaudhary</caption>
+<caption>Info</caption>
 <thead>
 <tr>
 <th colspan="2">Quick Info</th>
